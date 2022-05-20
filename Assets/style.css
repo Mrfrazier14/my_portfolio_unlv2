@@ -2,5 +2,24 @@ body {
     background: blue;
 }
 h1 {
+    background: white;
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    background: white;
+    text-align: center;
+}
+
+img {
+    
+}
+
+.blue-text {
+    color: blue;
+}
+
+.blue-text:hover {
     color: black;
 }
